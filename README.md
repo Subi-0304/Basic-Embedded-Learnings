@@ -1,2 +1,10 @@
-# Basic-Embedded-Learnings
-This repository documents my hands on learning in embedded systems through basic projects. It includes simulations using Tinkercad. Each project demonstrates practical implementation of microcontroller and embedded concepts..
+Project: LED Blinking
+
+Description: This project demostrates how to blink an LED using Arduino.
+
+Components Used:
+-Arduino UNO
+-LED
+-Resistor(220 ohm)
+
+Output: The LED blinks at a fixed interval.
