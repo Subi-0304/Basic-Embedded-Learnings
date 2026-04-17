@@ -8,4 +8,4 @@ Components Used:
 -IR Sensor
 -Resistor (220 ohm)
 
-Output: The LED turns ON when an object is detected by the IR sensor and turns OFF when no object is present.
+Output: The LED turns OFF when an object is detected by the IR sensor and turns ON when no object is present.
